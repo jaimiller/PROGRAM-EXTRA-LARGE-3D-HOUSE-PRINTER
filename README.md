@@ -13,14 +13,14 @@ I also any information you know of about best options for anyt parts/programs/co
            :-Adjustible GUI (Extra's added easily Pending alterations).
            :-Best program options for 3d print program to utilise.
            :-Direct usb link mobile port on machine plus wifi/blutooth/options
-                           -Backup control/Access if other options are locked out. 
-Needs to be:
-           -Extra user Friendly at Gui point of control (A child could use it friendly)-Easily adjustable(Extra buttons etc added easily Pending design alterations).
-           -Easy to calibrate 
+                          -Backup control/Access if other options are locked out.
+                          -Easy to calibrate 
            -Easily controlled from:-
                                    -Mobile Phone app/Laptop/Handheld 
                                    -Control at a distance through internet 
                                    -extra outputs for Hdmi etc
+Needs to be:
+           -Extra user Friendly at Gui point of control (A child could use it friendly)-Easily adjustable(Extra buttons etc added easily Pending design alterations
            -Are standard 3d printer sensors an option for movement control/distance and speed of print
            --Extra option link Drone chopper with appropriate 3d scanner
                                  :-For Initial Surveying,
