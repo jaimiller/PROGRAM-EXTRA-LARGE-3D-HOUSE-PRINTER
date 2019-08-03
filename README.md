@@ -3,7 +3,7 @@ Hi How are you all, full of idea's I hope,
 I'm new to the field of python havnt touched coding for years,
 any chance I could get a hand with this from you :).
 I need to build a program for an EXTRA LARGE 3D HOUSE PRINTER.
-I also require any information you know of about the best options for parts/programs/componants/materials all suggestions are welcome and apreciated:-
+I also require any information you know of about the best options for parts/programs/componants/materials all suggestions are welcome and appreciated:-
            
            :-Best board to use compact wifi/Usb.
            :-Approx 12 motors (more or less pending alterations)..
