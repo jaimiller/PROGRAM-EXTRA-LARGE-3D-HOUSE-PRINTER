@@ -29,11 +29,11 @@ Needs to be:
                                  :-Gyncro 3d scan info to video/audio capture,
                                  :-Depth scan propert yfor obstructions/pipes/powerlines,
                                  
-Seperate project add gold/treasure scanner version for Drone chopperprogram and let it hunt for you :)
-           :-mappable gps programmable path of travel,
+Seperate project add gold/treasure scanner version for Drone chopper program and let it hunt for you :)
+           :-mappable gps programmable path of travel, high fly/close range scans low to ground following terrain
            :-visual depth locator app for Mobile Phone/Laptop/Handheld ipad(or android)/augmented reality glasses,
            :-easy to find locator visually friendly easy to use
            :-scan readout visually in GUI Realtime/Review of various locations/heights 
            Map of Find plus mobile phone warning app
-                      :-depth approx size/weight
-           and distant/close range scans low to ground following terrain
+                      :-depth approx size/weight visually friendly readout
+                      :-high fly/close range scans low to ground following terrain
