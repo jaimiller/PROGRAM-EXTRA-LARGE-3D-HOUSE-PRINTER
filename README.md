@@ -15,6 +15,9 @@ I also any information you know of about best options for anyt parts/programs/co
 needs to be:
            -Extra user Friendly at Gui point of control (A child could use it friendly)
            -Easy to calibrate 
-           -Easily controlled from Phone Laptop or handheld tablet extra outputs for Hdmi etc
+           -Easily controlled from:-
+                                   -Mobile Phone app/Laptop/Handheld 
+                                   -Control at a distance through internet 
+                                   -extra outputs for Hdmi etc
            -Are standard 3d printer sensors an option for movement control/distance and speed of print
            
