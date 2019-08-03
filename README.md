@@ -22,7 +22,8 @@ I also require any information you know of about the best options for parts/prog
 Needs to be:
            -Extra user Friendly at Gui point of control (A child could use it friendly)-Easily adjustable(Extra buttons etc added easily Pending design alterations
            -Are standard 3d printer sensors an option for movement control/distance and speed of print
-           ---------------Extra option link Drone chopper with appropriate 3d scanner
+
+---------------Extra option link Drone chopper with appropriate 3d scanner
                                  :-For Initial Surveying,
                                  :-3d mapping transferable Architechural design Programs,
                                  :-Viewing progress and transfering house progress direct to Control point,
