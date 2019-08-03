@@ -26,8 +26,9 @@ Needs to be:
                                  :-For Initial Surveying,
                                  :-3d mapping transferable Architechural design Programs,
                                  :-Viewing progress and transfering house progress direct to Control point,
-                                 :-Gyncro 3d scan info to video/audio capture,
-                                 :-Depth scan propert for obstructions/pipes/powerlines,
+                                 :-Syncro 3d scan info to video/audio capture,
+                                 :-Depth scan property for obstructions type pipes/powerlines etc 
+                                 :-Exact depth approx size/weight visually friendly readout with dimensions
                                  
 ---------------------------Seperate project add gold/treasure scanner version for Drone chopper program and let it hunt for you :)
            :-mappable gps programmable path of travel, high fly/close range scans low to ground following terrain
@@ -35,5 +36,5 @@ Needs to be:
            :-easy to find locator visually friendly easy to use
            :-scan readout visually in GUI Realtime/Review of various locations/heights 
            Map of Find plus mobile phone warning app
-                      :-depth approx size/weight visually friendly readout
-                      :-high fly/close range scans low to ground following terrain
+                      :-dimensions/depth approx size/weight visually friendly readout
+                   
